@@ -1,0 +1,25 @@
+.stn-about {
+  flex-direction: row;
+  gap: 3rem;
+  margin-bottom: 12rem;
+  padding-left: 7rem;
+  padding-right: 7rem;
+}
+.imgbox-big {
+  flex-direction: row;
+  gap: 3rem;
+}
+.imgbox-small {
+  gap: 3rem;
+}
+.stn-about article p {
+  font-family: "Roboto-Light";
+  font-size: 1.6rem;
+  line-height: 2.5rem;
+  margin: 2rem 0;
+}
+.stn-about article {
+  height: 100%;
+
+  align-self: flex-start;
+}

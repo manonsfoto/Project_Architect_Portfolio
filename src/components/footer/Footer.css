@@ -1,0 +1,23 @@
+.footer {
+  background-color: #2c2c2c;
+  font-family: "Roboto-Bold";
+  color: #ffff;
+  flex-direction: row;
+  padding: 5.8rem 21.2rem 13rem 11.6rem;
+}
+footer p {
+  font-size: 1.6rem;
+}
+.footer-logo {
+  margin-right: 9.9rem;
+}
+.info {
+  margin-right: 16.6rem;
+  align-items: self-start;
+  gap: 1.6rem;
+}
+.contacts {
+  margin-right: 20rem;
+  gap: 3.2rem;
+  align-items: self-start;
+}

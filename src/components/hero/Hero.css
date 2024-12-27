@@ -1,0 +1,19 @@
+.stn-hero {
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 15rem;
+}
+
+.stn-hero h1 span {
+  font-family: "Roboto-Bold";
+  color: #333333;
+}
+.stn-hero .img-box {
+  position: relative;
+}
+.btn-hero {
+  position: absolute;
+
+  bottom: 0;
+  left: 0;
+}

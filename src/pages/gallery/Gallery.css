@@ -1,0 +1,11 @@
+.card-wrapper {
+  flex-direction: row;
+  gap: 3rem;
+  flex-wrap: wrap;
+  margin-top: 6.1rem;
+  margin-bottom: 23.3rem;
+}
+.stn-gallery span {
+  font-family: "Roboto-Bold";
+  color: #333333;
+}

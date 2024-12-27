@@ -1,0 +1,16 @@
+.stn-projects .photo-wrapper {
+  flex-direction: row;
+  gap: 3rem;
+  flex-wrap: wrap;
+  margin-top: 6rem;
+  margin-bottom: 3rem;
+}
+.stn-projects button {
+  align-self: self-end;
+}
+.stn-projects h1 {
+  align-self: self-start;
+}
+.stn-projects {
+  margin-bottom: 12rem;
+}

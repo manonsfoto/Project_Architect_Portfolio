@@ -1,0 +1,27 @@
+.box-contact {
+  flex-direction: row;
+  gap: 3rem;
+  margin-bottom: 7.7rem;
+}
+.box-contact form {
+  width: 100%;
+
+  gap: 1rem;
+}
+.box-contact form input {
+  width: 100%;
+  background-color: #f3f3f3;
+  border: none;
+  padding-left: 2.1rem;
+  font-size: 1.4rem;
+  color: #8d8d8d;
+}
+.input-msg {
+  height: 14.7rem;
+}
+.small-input {
+  height: 4.5rem;
+}
+.stn-contact {
+  margin-bottom: 12rem;
+}

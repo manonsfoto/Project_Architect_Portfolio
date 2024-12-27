@@ -1,0 +1,19 @@
+.big-number {
+  font-size: 20rem;
+  font-family: "Roboto-Bold";
+  color: #f2f2f2;
+}
+.stn-mission .text-box {
+  flex-direction: row;
+}
+.stn-mission .subtext {
+  font-size: 2.2rem;
+  color: #333333;
+}
+.stn-mission article {
+  flex-direction: row;
+  gap: 18.7rem;
+}
+.stn-mission {
+  margin-bottom: 12rem;
+}
