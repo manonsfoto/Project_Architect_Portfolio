@@ -2,7 +2,7 @@ import "./Mission.css";
 
 const Mission = () => {
   return (
-    <section className="stn-mission">
+    <section className="stn-mission side-padding">
       <h1>Main Focus/Mission Statement</h1>
       <article className="flex">
         <div className="flex text-box">

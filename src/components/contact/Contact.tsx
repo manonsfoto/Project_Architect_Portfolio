@@ -2,7 +2,7 @@ import "./Contact.css";
 import imgContact from "/public/img/contact.png";
 const Contact = () => {
   return (
-    <section className="stn-contact">
+    <section className="stn-contact side-padding">
       <h1>Contact Us</h1>
       <div className="flex box-contact">
         <form className="flex">
@@ -33,7 +33,7 @@ const Contact = () => {
         </form>
         <img src={imgContact} alt="telephoning man" />
       </div>
-      <button type="button" className="dark">
+      <button type="button" className="light-mode">
         send email →
       </button>
     </section>

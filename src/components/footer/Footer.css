@@ -10,14 +10,20 @@ footer p {
 }
 .footer-logo {
   margin-right: 9.9rem;
+  align-self: start;
 }
 .info {
-  margin-right: 16.6rem;
+  margin-right: 10.6rem;
   align-items: self-start;
   gap: 1.6rem;
 }
 .contacts {
-  margin-right: 20rem;
+  margin-right: 10rem;
   gap: 3.2rem;
+  align-items: self-start;
+}
+.social-icons {
+  align-self: start;
+  gap: 2.6rem;
   align-items: self-start;
 }

@@ -1,7 +1,7 @@
 .header {
   flex-direction: row;
   justify-content: space-between;
-  padding: 2.9rem 0;
+  padding: 2.9rem 13.5rem;
 }
 .nav-list {
   flex-direction: row;
@@ -11,4 +11,9 @@
   color: #333333;
   list-style: none;
   letter-spacing: 1.2px;
+}
+.nav-list li:hover,
+.active {
+  border-top: 1px solid #333333;
+  border-bottom: 1px solid #333333;
 }

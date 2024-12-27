@@ -6,7 +6,7 @@ import DarkMode from "../darkMode/DarkMode";
 
 const Header = () => {
   return (
-    <header className="flex header">
+    <header className="flex header ">
       <Link to={"/"}>
         {" "}
         <Logo />

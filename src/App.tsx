@@ -10,6 +10,7 @@ import Home from "./pages/home/Home";
 import Gallery from "./pages/gallery/Gallery";
 import { useState } from "react";
 import { DarkModeContext } from "./context/Context";
+import Loader from "./components/loader/Loader";
 
 function App() {
   const [darkMode, setDarkMode] = useState<boolean>(false);
@@ -19,6 +20,7 @@ function App() {
       <Route path="/" element={<RootLayout />}>
         <Route index element={<Home />} />
         <Route path="gallery" element={<Gallery />} />
+        <Route path="loader" element={<Loader />} />
       </Route>
     )
   );

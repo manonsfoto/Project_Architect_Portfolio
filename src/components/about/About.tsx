@@ -5,7 +5,7 @@ import imgAbout3 from "/public/img/about3.png";
 
 const About = () => {
   return (
-    <section className="flex stn-about">
+    <section className=" flex stn-about ">
       <div className="flex imgbox-big">
         <div className="flex imgbox-small">
           <img src={imgAbout1} alt="building" />

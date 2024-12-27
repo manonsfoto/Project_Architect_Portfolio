@@ -2,7 +2,7 @@ import "./Hero.css";
 import imgHero from "/public/img/hero.png";
 const Hero = () => {
   return (
-    <section className="stn-hero flex">
+    <section className="stn-hero flex side-padding">
       <h1>
         PROJECT
         <br />

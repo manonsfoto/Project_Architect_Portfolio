@@ -2,7 +2,7 @@ import "./Gallery.css";
 
 const Gallery = () => {
   return (
-    <section className="stn-gallery">
+    <section className="stn-gallery side-padding">
       <h1>
         Photo
         <br />

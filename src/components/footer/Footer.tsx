@@ -22,9 +22,9 @@ const Footer = () => {
         <p>512.333.2222</p>
         <p>sampleemail@gmail.com</p>
       </div>
-      <div>
+      <div className="social-icons flex">
         <p>Social Media</p>
-        <p>facebook x linkedin pinterest</p>
+        <p>Facebook Twitter/X Linkedin Pinterest</p>
       </div>
     </footer>
   );
